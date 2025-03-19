@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/git_trail.dir/main.cpp.o -o git_trail 
