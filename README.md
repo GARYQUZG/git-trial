@@ -3,3 +3,4 @@ This line was written when creating this project in this Windows.
 This line was written when fixing-a in Ubuntu.
 This line was written in pulled-feature-D in this Windows PC.
 This line was written in pulled-feature-D in this Ubuntu PC.
+git add .  will add all files and folders in this hub, including "build"
