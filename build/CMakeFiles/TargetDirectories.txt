@@ -1,3 +1,0 @@
-/home/qu/gittest/git-trial/build/CMakeFiles/git_trail.dir
-/home/qu/gittest/git-trial/build/CMakeFiles/edit_cache.dir
-/home/qu/gittest/git-trial/build/CMakeFiles/rebuild_cache.dir
