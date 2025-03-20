@@ -21,7 +21,7 @@ bool logger_init(const char *logFilePath)
             perror("Failed to open log file");
             return false;
         }
-        }
+    }
     else
     {
         logFile = stdout;
