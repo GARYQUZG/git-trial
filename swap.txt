@@ -1,0 +1,6 @@
+-static
+ prog main.o sum.o
+/usr/lib/x86_64-linux-gnu/crt1.o
+/usr/lib/x86_64-linux-gnu/crti.o-L/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginT.o-L/usr/lib/gcc/x86 64-linux-gnu/7 -L/usr/lib
+-L/usr/lib
+-static group -lgcc -lgcc_eh -lc --end-group-L/usr/lib/gcc/x86 64-linux-gnu/7/crtend.o/usr/lib/x86 64-linux-gnu/crtn.o
